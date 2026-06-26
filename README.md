@@ -118,16 +118,7 @@ const shoxjahon: Developer = {
 
 ## 🚀 Loyihalarim
 
-| 🔥 Loyiha | 📝 Tavsif | 🛠 Stack | ⭐ |
-|-----------|-----------|----------|-----|
-| **Portfolio v2** | Shaxsiy portfolio — zamonaviy dizayn | Next.js 15, Tailwind, Framer | ⭐⭐⭐ |
-| **UI Kit** | 50+ qayta ishlatiluvchi komponentlar | React, shadcn/ui, TypeScript | ⭐⭐⭐ |
-| **Landing Pages** | Klientlar uchun zamonaviy sahifalar | HTML, CSS, JavaScript | ⭐⭐ |
-| **Dashboard** | Admin panel + statistika | Next.js, Tailwind, Chart.js | ⭐⭐⭐ |
 
----
-
-<div align="center">
 
 # 🌐 Live Projects
 
@@ -139,7 +130,18 @@ const shoxjahon: Developer = {
 | ⚡ Nexus Website | https://wozzz1-nexus.netlify.app |
 | 🧮 Calculator App | https://wozzz1-kalkulyator.netlify.app |
 
-</div>
+
+
+| 🔥 Loyiha | 📝 Tavsif | 🛠 Stack | ⭐ |
+|-----------|-----------|----------|-----|
+| **Portfolio v2** | Shaxsiy portfolio — zamonaviy dizayn | Next.js 15, Tailwind, Framer | ⭐⭐⭐ |
+| **UI Kit** | 50+ qayta ishlatiluvchi komponentlar | React, shadcn/ui, TypeScript | ⭐⭐⭐ |
+| **Landing Pages** | Klientlar uchun zamonaviy sahifalar | HTML, CSS, JavaScript | ⭐⭐ |
+| **Dashboard** | Admin panel + statistika | Next.js, Tailwind, Chart.js | ⭐⭐⭐ |
+
+---
+
+
 
 ---
 </div>
