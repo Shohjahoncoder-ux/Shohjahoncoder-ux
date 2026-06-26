@@ -125,6 +125,23 @@ const shoxjahon: Developer = {
 | **Landing Pages** | Klientlar uchun zamonaviy sahifalar | HTML, CSS, JavaScript | ⭐⭐ |
 | **Dashboard** | Admin panel + statistika | Next.js, Tailwind, Chart.js | ⭐⭐⭐ |
 
+---
+
+<div align="center">
+
+# 🌐 Live Projects
+
+| 🚀 Project | 🔗 Live Demo |
+|------------|--------------|
+| 💼 Personal Portfolio | https://wozzz1.netlify.app |
+| 🏢 IT Agency Website | https://wozzz1-itagency.netlify.app |
+| ✨ Aura Landing Page | https://wozzz1-aura.netlify.app |
+| ⚡ Nexus Website | https://wozzz1-nexus.netlify.app |
+| 🧮 Calculator App | https://wozzz1-kalkulyator.netlify.app |
+
+</div>
+
+---
 </div>
 
 ---
