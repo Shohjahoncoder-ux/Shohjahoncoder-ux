@@ -132,6 +132,9 @@ const shoxjahon: Developer = {
 
 
 
+
+
+
 | 🔥 Loyiha | 📝 Tavsif | 🛠 Stack | ⭐ |
 |-----------|-----------|----------|-----|
 | **Portfolio v2** | Shaxsiy portfolio — zamonaviy dizayn | Next.js 15, Tailwind, Framer | ⭐⭐⭐ |
