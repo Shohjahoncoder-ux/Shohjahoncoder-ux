@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=🚀+React+%7C+Next.js+%7C+TypeScript+Engineer;🔥+Tailwind+CSS+%7C+shadcn%2Fui+Specialist;💡+16+yoshda+Professional+Frontend+Developer;⚡+Bekobod+→+Global+Developer+bo'lish+yo'lida!)](https://git.io/typing-svg)
+
 
 </div>
 
